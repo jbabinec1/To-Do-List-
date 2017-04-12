@@ -1,6 +1,7 @@
 # To-Do-List-
 A simple JavaScript app that allows users to maintain a list of tasks.
                
+Live version uploaded to Codepen.io as well: http://codepen.io/BabinecJ/pen/RVwGXE
   
   --------Functionality Checklist-------
 
