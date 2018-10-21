@@ -102,7 +102,7 @@ li .destroy:after {
 #clearCompleted {
   
   margin-bottom: 5px;
-  color: #f30;
+  color: yellow;
   border: solid; 
   width: 50%; 
   
