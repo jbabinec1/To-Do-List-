@@ -9,7 +9,7 @@ Version 2 of checklist added to this folder. This version with jQuery. Some more
   
   --------Functionality Checklist-------
 
--When the user enters a task in the "To-do" textbox and clicks the add button, it will get added to the list. ✓
+-When the user enters a task in the "To-do" textbox and clicks the add button, it will get added to the list. ✓√
 
 -If they type a task and hit the enter key, it will also get added to the list. ✓
 
